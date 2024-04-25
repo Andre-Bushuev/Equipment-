@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1713803810 source:c:\users\Андрей\downloads\equipment\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<cstdlib>
+	<ctime>
+	"main_Eq.h"
+
+1713799739 c:\users\Андрей\downloads\equipment\main_eq.h
+	"Equipment.h"
+
+1713012830 c:\users\Андрей\downloads\equipment\equipment.h
+
